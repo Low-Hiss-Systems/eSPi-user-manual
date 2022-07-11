@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Channel Assign (Mute Groups)
-A very important concept to understand with the SP1200 and the eSPi is the channel assign.<br/>
+A very important concept to understand with the SP1200 and eSPi is the channel assign.<br/>
 On one hand if you want several pads to cut each-other off, they need to be on the same channel.<br/>
 On the other hand, if you want several pads to play simultaneously over each-other, then you need to set them to different
 channels.
